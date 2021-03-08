@@ -1,3 +1,4 @@
+# Второе задание
 my_list = [0, ]
 my_list.insert(0, input("Введите первый элемент: "))
 my_list.pop(1)
