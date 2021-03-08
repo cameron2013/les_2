@@ -1,3 +1,4 @@
+# Четвертое задание
 str_1 = input("Введите строку: ")
 str_list = str_1.split(' ')
 for i in range(len(str_list)):

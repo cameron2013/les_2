@@ -1,3 +1,4 @@
+# Шестое задание
 i = 0
 goods = list()
 while True:
